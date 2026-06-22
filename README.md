@@ -1,6 +1,8 @@
 # 🎤 MJ Meme Challenge
 
 Imitate Michael Jackson's iconic sounds and see how close you get!
+<img width="523" height="562" alt="image" src="https://github.com/user-attachments/assets/2a73f423-eef4-44b3-b8b1-503cd4732639" />
+
 
 ---
 
@@ -128,7 +130,8 @@ Korean.ver
 
 마이클 잭슨의 명대사를 따라하고, 얼마나 비슷한지 점수로 확인해 보세요!
 
-![MJ 밈 챌린지 스크린샷](screenshot.png)
+<img width="523" height="562" alt="image" src="https://github.com/user-attachments/assets/8cd73fd8-7494-425d-9f54-f4a93a449420" />
+
 
 ---
 
