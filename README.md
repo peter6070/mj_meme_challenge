@@ -1,8 +1,7 @@
 # 🎤 MJ Meme Challenge
 
 Imitate Michael Jackson's iconic sounds and see how close you get!
-<img width="523" height="562" alt="image" src="https://github.com/user-attachments/assets/2a73f423-eef4-44b3-b8b1-503cd4732639" />
-
+<img width="551" height="580" alt="image" src="https://github.com/user-attachments/assets/87bbc752-4eda-4b89-bad6-e8160d2c9ad8" />
 
 ---
 
@@ -124,7 +123,7 @@ MIT
 
 ---
 
-Korean.ver
+# Korean.ver
 
 # 🎤 MJ 밈 챌린지
 
