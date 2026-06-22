@@ -23,7 +23,7 @@ Imitate Michael Jackson's iconic sounds and see how close you get!
 
 ## How to Use
 
-1. Open `mj_meme_challenge.html` in Chrome, Safari, Firefox, or any modern browser
+1. Open `mj_meme_challenge_en.html` in Chrome, Safari, Firefox, or any modern browser
 2. Select a meme ("Hee Hee" or "Aow!")
 3. Hit **Play Original** to hear the reference sound
 4. Press the 🎙️ button to start recording
@@ -152,7 +152,7 @@ MIT
 
 ## 사용 방법
 
-1. `mj_meme_challenge.html`을 크롬/사파리/파이어폭스 등 최신 브라우저로 열기
+1. `mj_meme_challenge_ko.html`을 크롬/사파리/파이어폭스 등 최신 브라우저로 열기
 2. 따라할 밈 선택 ("히히" 또는 "아오!")
 3. **원본 듣기** 버튼으로 먼저 소리 확인
 4. 🎙️ 버튼을 눌러 녹음 시작
